@@ -50,7 +50,7 @@ const Sidebar = () => {
           }`}
         />
         <div className="flex items-center text-sm justify-center ">
-          Made by - Dheeraj Agrahari
+          © Vignesh Siva, 2025
         </div>
       </div>
     </div>
